@@ -1,7 +1,7 @@
 # Kalman | Systems+ Company Disclosures and Compliance Documents
 
 <p align="center">
-  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/Kalman%20Systems.png" width="200">
+  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/Kalman%20Systems.png" width="100%">
 </p>
 
 This repository will have public facing documents that show developments, initiatives and efforts. You are welcome to imitate these documents and contents therein fearlessly, with no repraisals. These artefacts took me three years to develop, just understanding common references has been a great task, then learning how to make money from the sweat equity.
@@ -21,7 +21,7 @@ At Kalman Systems, we are model-agnostic, ensuring a practical, tailored respons
 While there are numerous and may be endless modelling representation, I found Dr.Hürilmann addressed it in his recent book edition, in an easy manner. This depiction is actually how systems are developed.
 
 <p align="center">
-  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/System%20Modelling.png" width="200">
+  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/System%20Modelling.png" width="100%">
 </p>
 
 Hürilmann, D.T. (2024)} Mathematical Modeling Basics. 1st edn. Department of Informatics, CH-1700, Switzerland: University of Fribourg, pp. 28–34.
