@@ -55,3 +55,9 @@ Among these commercial partners, you will find trusted individuals who uphold fi
 - [Insperanto](https://insperanto.com/) - UK (Global)
 - [Omnisure](https://omnisure.com.au/) - Australia
 - VenturEsq LLC - USA (Global)
+
+# Glossary and Terms
+
+In formal communications and documents we encourage all to use the following Glossary terms as defined by: ISO/IEC/IEEE 24765:2017 Systems and software engineering-Vocabulary.
+
+We avoid confusions in the delivarable and definitions, as we can't offer a better Glossary ourselves. Noting, We are not a team of Barristers.
