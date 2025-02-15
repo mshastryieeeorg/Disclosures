@@ -56,6 +56,33 @@ Among these commercial partners, you will find trusted individuals who uphold fi
 - [Omnisure](https://omnisure.com.au/) - Australia
 - VenturEsq LLC - USA (Global)
 
+# Our Values  
+
+**Honesty** and **integrity** are the cornerstones of Kalman Systems' values, serving as guiding principles to bring **clarity in moments of confusion**.  
+
+In times of **uncertainty**, we rely on our **virtues** to:  
+- Navigate **rejection** and plan for **marriages, not divorces**.  
+- Solve problems **financially with resilience**.  
+- Mitigate **risk and multimodal loss**.  
+
+We are a team of **technical and non-technical professionals** who understand that **endless consultancy and consistency** can be **_tiring_**.  
+
+While we seek **long-term relationships with financial gain**, we value **good, honest written and spoken communication**—irrespective of the stakeholders involved.
+
+## Ethics
+
+### NSPE Code of Ethics for Engineers  
+[NSPE Code of Ethics for Engineers](https://www.nspe.org/resources/ethics/code-ethics) – Prescribed by the **National Society of Professional Engineers (NSPE)** as a cornerstone of **Kalman Systems** (*We, Me, I*), aligning with **ethical priorities** that indirectly infer the *Hippocratic Oath* for engineering and science.  
+
+### Professional Memberships  
+
+We have maintained **paid memberships** in the following professional organisations since **1998**:
+
+1. [Engineers Australia](https://www.engineersaustralia.org.au/)
+2. [Institute of Electrical and Electronic Engineers (IEEE) - USA](https://www.ieee.org/)
+3. [Institute of Engineering Technologists (IET) - UK](https://www.theiet.org/)
+4. [Association of Computing Machinery (ACM) - USA](https://www.acm.org/)
+
 # Glossary and Terms
 
 In formal communications and documents we encourage all to use the following Glossary terms as defined by: ISO/IEC/IEEE 24765:2017 Systems and software engineering-Vocabulary.
