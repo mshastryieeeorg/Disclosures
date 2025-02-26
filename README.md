@@ -1,7 +1,7 @@
 # Kalman | Systems+ Company Disclosures and Compliance Documents
 
 <p align="center">
-  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/Kalman%20Systems.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/Kalman%20Systems.png.png" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </p>
 
 
