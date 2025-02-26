@@ -1,8 +1,9 @@
 # Kalman | Systems+ Company Disclosures and Compliance Documents
 
-<p align="center" style="overflow: hidden;">
-  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/Kalman%20Systems.png" style="width: 100%; height: auto; display: block; margin: 0 auto;" />
+<p align="center">
+  <img src="https://github.com/mshastryieeeorg/disclosure/blob/main/Images/Kalman%20Systems.png" style="max-width: 98%; height: auto; display: block; margin: 0 auto;" />
 </p>
+
 
 This repository will have public facing documents that show developments, initiatives and efforts. You are welcome to imitate these documents and contents therein fearlessly, with no repraisals. These artefacts took me three years to develop, just understanding common references has been a great task, then learning how to make money from the sweat equity.
 
