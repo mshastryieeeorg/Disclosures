@@ -79,10 +79,11 @@ While we seek **long-term relationships with financial gain**, we value **good, 
 
 We have maintained **paid memberships** in the following professional organisations since **1998**:
 
-1. [Engineers Australia](https://www.engineersaustralia.org.au/)
-2. [Institute of Electrical and Electronic Engineers (IEEE) - USA](https://www.ieee.org/)
-3. [Institute of Engineering Technologists (IET) - UK](https://www.theiet.org/)
-4. [Association of Computing Machinery (ACM) - USA](https://www.acm.org/)
+- [ASM International - Germany](https://www.asminternational.org/)
+- [Association of Computer Machinery - USA](https://www.acm.org/)
+- [Engineers Australia](https://www.engineersaustralia.org.au/)
+- [Institute of Electrical and Electronic Engineers - USA (IEEE)](https://www.ieee.org/)
+- [Institute of Engineering Technologists - UK (IET)](https://www.theiet.org/)
 
 # Glossary and Terms
 
