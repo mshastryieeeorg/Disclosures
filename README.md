@@ -35,27 +35,90 @@ It took greater than 3 years to work with the partners listed below, and curatin
 
 Among these commercial partners, you will find trusted individuals who uphold fiduciary responsibility in their advocacy. They are committed to helping your revenue grow, without seeking disgorgement, unless mutually agreed upon.
 
-## Commerical
+## Global Professional Network Directory
 
-- [Bayshore Intelligence Solutions](https://bayshoreintel.com/) - USA | India
-- [Tejasoft Innovations](https://tejasoft.com/) - India
-- [Tigon Technologies LTD DBA TLVTech](https://www.tlvtech.io/) - Israel | Middle East
-- [TTS Services](https://tts-engineering.com/en/) - Spain | Europe
-- [Push Capital](https://pushcapital.com.au/) - Australia
-- [UCapital](https://www.ucapital.com.au/) - Australia
-  
-## Alliance
+A curated list of companies and consultancies across various domains including finance, engineering, law, quantum, and innovation.
 
-- Annapurna Consulting - Indonesia | South East Asia
-- [aXlerate Advisory](https://axelerateadvisory.com/) - Australia
-- [BDO Australia](https://www.bdo.com.au/en-au/home) - Australia (Global)
-- [CAN Automotion](https://www.canautomotion.com.au/) - Australia
-- [ENPRO Envriotech](https://enproenirotech.com) - Australia
-- [Ensemble Consulting Group](https://ensembletechnology.com/) - Australia
-- [Ergodic Solutions](https://ergodicsolutions.com/) - South East Asia | Mainland China
-- [Insperanto](https://insperanto.com/) - UK (Global)
-- [Omnisure](https://omnisure.com.au/) - Australia
-- VenturEsq LLC - USA (Global)
+---
+
+### Australia
+
+- [aXlerate Advisory](https://axelerateadvisory.com/)  
+  *Finance | Investments*
+
+- [BDO Australia](https://www.bdo.com.au/en-au/home)  
+  *Global Operations | Taxation | Corporate Law*
+
+- [CAN Automotion](https://www.canautomotion.com.au/)  
+  *Industrial | Mobile Machinery | Software & Automation*
+
+- [Colakin](https://colakin.com)  
+  *Enterprise Architecture | Software Engineering*
+
+- **Compass Solutions**  
+  *Mechanical | Engineering | Design | Fabrication*
+
+- [ENPRO Envirotech](https://enproenirotech.com)  
+  *Renewable | Energy | Systems*
+
+- [Ensemble Consulting Group](https://ensembletechnology.com/)  
+  *Management | Operations | Constraint Management*
+
+- [Omnisure](https://omnisure.com.au/)  
+  *Commercial | Personal | Liability | Global*
+
+- [Peak Capital](https://peakcapital.com.au/)  
+  *Finance | Investments*
+
+- [Push Capital](https://pushcapital.com.au/)  
+  *Finance | Investments*
+
+- [UCapital](https://www.ucapital.com.au/)  
+  *Finance | Investments*
+
+---
+
+### India
+
+- [NXON](https://nxon.io/)  
+  *Electronics | Embedded | Software | Systems of Systems*
+
+- [Tejasoft Innovations](https://tejasoft.com/)  
+  *Fractional | Amortised | Enterprise Systems | Technical Debt | R&D Services*
+
+---
+
+### Israel / Middle East
+
+- [Tigon Technologies LTD (TLVTech)](https://www.tlvtech.io/)  
+  *Software | Engineering | Concept Development | Consultancy*
+
+---
+
+### Indonesia / Southeast Asia
+
+- **Annapurna Consulting**  
+  *Hospitality | Consultancy | Mentoring*
+
+---
+
+### Southeast Asia / Mainland China
+
+- [Ergodic Solutions](https://ergodicsolutions.com/)  
+  *Manufacturing | Large-Scale Operations | Management | Research*
+
+---
+
+### United States
+
+- [Bayshore Intelligence Solutions](https://bayshoreintel.com/)  
+  *Software | Engineering | Concept Development | Consultancy*
+
+- [Quantum Computing Inc. (QCI)](https://quantumcomputinginc.com/)  
+  *Quantum | Design | Fabrication | Semiconductors | Services*
+
+- **VenturEsq LLC**  
+  *Finance | Investments | Global*
 
 # Our Values  
 
