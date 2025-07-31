@@ -131,7 +131,7 @@ In times of **uncertainty**, we rely on our **virtues** to:
 
 We are a team of **technical and non-technical professionals** who understand that **endless consultancy and consistency** can be **_Tiring_**.  
 
-While we seek **long-term relationships with financial gain**, we value **good, honest written and spoken communication**—irrespective of the stakeholders involved.
+While we seek **long-term relationships with financial gain**, we value **good, honest written and spoken communication**, irrespective of the stakeholders involved.
 
 ## Ethics
 
