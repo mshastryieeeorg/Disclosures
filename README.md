@@ -140,13 +140,21 @@ While we seek **long-term relationships with financial gain**, we value **good, 
 
 ### Professional Memberships  
 
-We have maintained **paid memberships** in the following professional organisations since **1998**:
+We have maintained **paid memberships** in the following professional organisations:
 
-- [ASM International - Germany](https://www.asminternational.org/)
-- [Association of Computer Machinery - USA](https://www.acm.org/)
-- [Engineers Australia](https://www.engineersaustralia.org.au/)
-- [Institute of Electrical and Electronic Engineers - USA (IEEE)](https://www.ieee.org/)
-- [Institute of Engineering Technologists - UK (IET)](https://www.theiet.org/)
+# Professional Memberships
+
+| Organisation | Head Office Address | Website |
+|--------------|---------------------|---------|
+| **ASM International** | 9639 Kinsman Road, Materials Park, OH 44073-0002, USA | [asminternational.org](https://www.asminternational.org/) |
+| **Association for Computing Machinery (ACM)** | 1601 Broadway, 10th Floor, New York, NY 10019, USA | [acm.org](https://www.acm.org/) |
+| **Engineers Australia** | 11 National Circuit, Barton ACT 2600, Australia | [engineersaustralia.org.au](https://www.engineersaustralia.org.au/) |
+| **Institute of Electrical and Electronics Engineers (IEEE)** | 445 Hoes Lane, Piscataway, NJ 08854, USA | [ieee.org](https://www.ieee.org/) |
+| **Institution of Engineering and Technology (IET)** | Michael Faraday House, Six Hills Way, Stevenage, Hertfordshire SG1 2AY, UK | [theiet.org](https://www.theiet.org/) |
+| **American Mathematical Society (AMS)** | 201 Charles Street, Providence, RI 02904-2294, USA | [ams.org](https://www.ams.org/) |
+| **SPIE – The International Society for Optics and Photonics** | 1000 20th Street, Bellingham, WA 98225-6705, USA | [spie.org](https://spie.org/) |
+| **New York Society of Professional Engineers (NYSPE)** | 100 Metro Center Boulevard, Suite 118, Warwick, RI 02886, USA | [nyspe.org](https://www.nyspe.org/) |
+
 
 # Glossary and Terms
 
