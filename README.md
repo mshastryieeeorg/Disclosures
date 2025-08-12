@@ -83,6 +83,9 @@ A curated list of companies and consultancies across various domains including f
 - [NXON](https://nxon.io/)  
   *Electronics | Embedded | Software | Systems of Systems*
 
+- [Silicon Signals](https://siliconsignals.io/)  
+  *Electronics | Embedded | Software | Systems of Systems*
+
 - [Tejasoft Innovations](https://tejasoft.com/)  
   *Fractional | Amortised | Enterprise Systems | Technical Debt | R&D Services*
 
